@@ -1,0 +1,11 @@
+﻿  ConsoleOut.cpp
+C:\Users\Nyxbo\source\repos\CourseWorkC++\Visitor.h(4,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+  CourseWorkC++.cpp
+  TicketWindow.cpp
+  TicketWindowStructure.cpp
+  Visitor.cpp
+C:\Users\Nyxbo\source\repos\CourseWorkC++\Visitor.h(4,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+C:\Users\Nyxbo\source\repos\CourseWorkC++\Visitor.cpp(138,18): warning C4552: "-": результат выражения не используется
+  Создание кода...
+C:\Users\Nyxbo\source\repos\CourseWorkC++\TicketWindow.cpp(103): warning C4715: TicketWindow::GetSizeHall: значение возвращается не при всех путях выполнения
+  CourseWorkC++.vcxproj -> C:\Users\Nyxbo\source\repos\CourseWorkC++\Debug\CourseWorkC++.exe

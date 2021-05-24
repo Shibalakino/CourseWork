@@ -1,0 +1,40 @@
+{
+"Poster": [
+    {
+      "autor": "Yulia",
+      "name": "ProgrammingInEPAM",
+      "genre": "Horror",
+      "date": "23.05.2021"
+    },
+    {
+      "autor": "Igor",
+      "name": "Math philosophy",
+      "genre": "Documentary",
+      "date": "25"
+    },
+    {
+      "autor": "Dimasic",
+      "name": "HeavenAndHell",
+      "genre": "War",
+      "date": "10.10.2010"
+    },
+    {
+      "autor": "Dimasic",
+      "name": "Hell",
+      "genre": "War",
+      "date": "10.10.2010"
+    },
+    {
+      "autor": "Karl",
+      "name": "Warframe",
+      "genre": "Western",
+      "date": "12.5.2022"
+    },
+    {
+      "autor": "Illya",
+      "name": "WorkAndDie",
+      "genre": "Criminal",
+      "date": "5.12.2050"
+    }
+ ]
+}

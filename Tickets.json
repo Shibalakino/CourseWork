@@ -1,0 +1,34 @@
+{
+  "Ticket": [
+    {
+      "time": "14:00",
+      "price": 300,
+      "hallSize": 10
+    },
+    {
+      "time": "13:00",
+      "price": 200,
+      "hallSize": 5
+    },
+    {
+      "time": "00:00",
+      "price": 999,
+      "hallSize": 3
+    },
+    {
+      "time": "16:00",
+      "price": 8,
+      "hallSize": 9
+    },
+    {
+      "time": "18:00",
+      "price": 600,
+      "hallSize": 5
+    },
+    {
+      "time": "21:00",
+      "price": 500,
+      "hallSize": 5
+    }
+  ]
+}
